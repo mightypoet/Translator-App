@@ -1,0 +1,37 @@
+.App{
+    text-align: center;
+    background-color: rgb(173, 231, 243);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    background-image: url("https://www.itcglobaltranslations.com/wp-content/uploads/sites/5/2020/08/quality-translator-1030x655.jpg");
+    display: block;
+}
+
+div{
+    padding: 20px;
+    text-align: center;
+}
+select{
+    padding: 10px;
+    text-align: center;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: rgb(243, 43, 113);
+    
+}
+h3:hover{
+    color: rgb(3, 137, 137);
+}
+
+.btn{
+    height: 40px;
+    width: 200px;
+    background-color: rgb(3, 137, 137);
+    color: aliceblue;
+    
+}
+.btn:hover{
+   background-color: rgb(245, 61, 92);
+}
